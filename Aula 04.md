@@ -243,6 +243,3 @@ public class Main {
 3. **Que vantagens você percebe ao utilizar herança e interfaces em seus projetos?**
 
 ---
-
-Este roteiro pode ser usado como material de aula e disponibilizado no GitHub. Caso precise de mais alguma coisa, estou à disposição.
-```
