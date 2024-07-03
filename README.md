@@ -19,4 +19,4 @@
 ## Exemplos, Listas e Exercícios
 
 [Oracle Certified Associate, Java SE 8 Programmer (OCAJP 8) - 1Z0-808
-](https://github.com/cbeluzo/LGP3/blob/main/OCAJP%28%2-%21Z0-808.md)
+](https://github.com/cbeluzo/LGP3/blob/main/OCAJP%208%20-%201Z0-808.md)
