@@ -13,7 +13,10 @@
 
 [Aula 06](https://github.com/cbeluzo/LGP3/blob/main/Aula%2006.md)
 
+[Aula 07](https://github.com/cbeluzo/LGP3/blob/main/Aula%2007.md)
+
 ---
 ## Exemplos, Listas e Exercícios
 
-
+[Oracle Certified Associate, Java SE 8 Programmer (OCAJP 8) - 1Z0-808
+](https://github.com/cbeluzo/LGP3/blob/main/OCAJP%28%2-%21Z0-808.md)
