@@ -146,7 +146,7 @@ import java.util.List;
 
 public class LinkedListExample {
     public static void main(String[] args) {
-        List<String> list = new LinkedList<>();
+        LinkedList <String> list = new LinkedList<>();
         list.add("Element A");
         list.add("Element B");
         list.addFirst("Element 0");  // Adiciona ao início da lista
